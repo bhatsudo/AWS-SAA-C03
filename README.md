@@ -7,7 +7,7 @@ Sharing it so it may help any of you who are preparing for AWS SAA-C03!
 
 # Notes:
 
-https://sudobhat.notion.site/139ad7f6182e4af7a571c21137f150c1?v=cead0416600c470aa4ccd1bbc121e0b2&pvs=4
+https://sudobhat.notion.site/sudobhat/139ad7f6182e4af7a571c21137f150c1?v=cead0416600c470aa4ccd1bbc121e0b2
 
 
 ## disclaimer
